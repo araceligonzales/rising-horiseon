@@ -16,3 +16,4 @@
 
 ### You can find the page [here](https://araceligonzales.github.io/rising-horiseon/)
 
+![](Assets\assets\images\horiseon.png)
